@@ -214,7 +214,39 @@ This makes the multi-agent system fully transparent — you can see exactly what
 
 ## 👤 Author
 
-Built by **Ashish Rawandhe** — portfolio project demonstrating Multi-Agent AI, LangGraph, RAG pipelines, and HITL systems.
+### Ashish Rawandhe
+
+AI Engineer | Data Science & Agentic AI Enthusiast
+
+* GitHub: https://github.com/Asrawandhe
+* LinkedIn: https://linkedin.com/in/asrawandhe
+
+---
+
+## ✨ Key Features
+
+* Multi-Agent AI workflow using LangGraph
+* RAG-powered policy retrieval with FAISS
+* CRM-aware personalized responses
+* Human-in-the-Loop escalation pipeline
+* Local LLM inference using Ollama
+* Real-time agent trace visualization
+* Modular and production-scalable architecture
+
+---
+
+## 📈 Future Improvements
+
+* Add memory-enabled conversational agents
+* Parallel agent execution
+* Docker deployment
+* FastAPI backend integration
+* LangSmith tracing & monitoring
+* PostgreSQL / Redis integration
+* Voice support using Whisper + TTS
+* Authentication & admin dashboard
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/asrawandhe)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Asrawndhe)
