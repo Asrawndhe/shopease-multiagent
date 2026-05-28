@@ -214,9 +214,9 @@ This makes the multi-agent system fully transparent — you can see exactly what
 
 ## 👤 Author
 
-Built by **[Your Name]** — portfolio project demonstrating Multi-Agent AI, LangGraph, RAG pipelines, and HITL systems.
+Built by **Ashish Rawandhe** — portfolio project demonstrating Multi-Agent AI, LangGraph, RAG pipelines, and HITL systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/asrawandhe)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Asrawndhe)
 
 ---
